@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make_and_model: MyString
+  transmission: MyString
+  car_type: MyString
+  door_count: 1
+  color: MyString
+
+two:
+  make_and_model: MyString
+  transmission: MyString
+  car_type: MyString
+  door_count: 1
+  color: MyString
